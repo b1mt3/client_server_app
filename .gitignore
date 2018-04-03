@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Eclipse-specific
+.autotools
+.cproject
+.project
+.settings/
